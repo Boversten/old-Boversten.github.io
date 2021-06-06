@@ -4,6 +4,26 @@
 			<title>{{ page.title }}</title>
 			<!-- link to main stylesheet -->
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
+			
+			<style>
+			* {
+			  box-sizing: border-box;
+			}
+
+			.column {
+			  float: left;
+			  width: 33.33%;
+			  padding: 5px;
+			}
+
+			/* Clearfix (clear floats) */
+			.row::after {
+			  content: "";
+			  clear: both;
+			  display: table;
+			}
+			</style>
+			
 		</head>
 		<body>
 			<nav>
