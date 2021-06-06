@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Receive a PhD offer from MIT"
+title: "Received a PhD offer from MIT"
 date: 2021-02-22
 ---
 
